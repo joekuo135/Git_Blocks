@@ -1,0 +1,147 @@
+body *{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 950px;
+    height: 725px;
+    background-color: lightgray;
+}
+.aheader{
+    width: 97%;
+    height: 64px;
+    background-color: #008B8B;
+    margin: 13px 15px 0 15px;
+    display: inline-block;
+    vertical-align: top;
+}
+#agitLogo{
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+    margin: 10px 0 0 10px;
+
+}
+.aheader h1{
+    
+    font-style: normal;
+    vertical-align: top;
+    display: inline-block;
+    margin: 10px 0 0 5px;
+}
+.amenu{
+    font-size: 10pt;
+    list-style: none;
+    vertical-align: top;
+    text-align: right;
+    display: inline-block;
+    margin: 22px 5px 0 200px;
+}
+.amenu li{
+    vertical-align: top;
+    display: inline-block;
+    padding: 0 13px 0 0;
+    
+}
+.amenu li a{
+    color: white;
+}
+
+.bCenter{
+    width: 97%;
+    height: 550px;
+    background-color: #F0E68C;
+    margin: 13px 15px 0 15px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.bcol1{
+    width: 25%;
+    height: 95%;
+    background-color: #2F4F4F;
+    margin: 13px 0 0 12px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h2{
+    font-size: 14pt;
+    color: white;
+    padding: 18px 15px 0 14px;
+}
+p{
+    font-size: 10pt;
+    color: white;
+    padding: 10px 15px 0 19px;
+    line-height: 22px;
+}
+.bcol2{
+    width: 66%;
+    height: 96%;
+    /*background-color: red;*/
+    margin: 13px 0 0 35px;
+    display: inline-block;
+    vertical-align: top;
+}
+.brol1, .brol2{
+    width: 100%;
+    height: 29%;
+    vertical-align: top;
+    margin: 0 0 32px 0;
+}
+.brol3{
+    width: 100%;
+    height: 29%;
+    vertical-align: top;
+    background-color: #2F4F4F;
+    margin: 0 0 32px 0;
+}
+.brolA, .brolB, .brolC{
+    width: 29%;
+    height: 100%;
+    background-color: #2F4F4F;
+    display: inline-block;
+    vertical-align: top;
+}
+.brolB, .brolC{
+    margin-left: 35px;
+}
+h3{
+    font-size: 12pt;
+    color: white;
+    padding: 7px 15px 0 10px;
+}
+.brolA p, .brolB p, .brolC p{
+    font-size: 10pt;
+    color: white;
+    padding: 5px 15px 0 19px;
+    line-height: 20px;
+}
+.notWite{
+    color: #008B8B;
+}
+.bb1, .bb2{
+    width: 47%;
+    height: 100%;
+    background-color: #2F4F4F;
+    display: inline-block;
+    vertical-align: top;
+}
+.bb1{
+    margin-right: 32px;
+}
+.cfooter{
+    width: 97%;
+    height: 40px;
+    font-size: 10pt;
+    color: black;
+    background-color: #008B8B;
+    margin: 13px 15px 0 15px;
+    padding-top: 20px;
+    text-align: center;
+    vertical-align: top;
+    text-align: center;
+    display: inline-block;
+}
